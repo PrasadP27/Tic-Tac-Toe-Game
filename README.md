@@ -1,3 +1,3 @@
 # Tic-Tac-Toe Game
 
-Basic tic tac toe game with html css and js 
+This is a Webpage which is made to play tic tac toe game online. It has all the logic and can declare who wins, loses and draw.
